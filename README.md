@@ -1,4 +1,4 @@
-# ski-paradise: a spring boot web application
+# Ski Paradise: a spring boot web application
 
 ## RESTful APIs :
 ```
